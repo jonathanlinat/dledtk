@@ -4,6 +4,10 @@
 
 ![DromEd Level Editor Developer Textures Kit - Kit Preview](https://image.ibb.co/kYWbaa/dledtk_preview.png)
 
+> **Current version**: 1.1 (2017.3.24) - [**[Latest release](https://github.com/jonathanlinat/dledtk/releases/latest)**] [[Online README](https://github.com/jonathanlinat/dledtk/blob/master/README.md)] [[Project homepage](https://github.com/jonathanlinat/dledtk)] [[TTLG thread](http://www.ttlg.com/forums/showthread.php?t=147675&p=2351521&viewfull=1#post2351521)]
+
+This set has **164 textures**: 1x1, 1x2, 1x4, 1x8; 2x1, 2x2, 2x4, 2x8; 4x1, 4x2, 4x4, 4x8; 8x1, 8x2, 8x4, 8x8 + 3 special ones. 
+
 ## Install
 
 You have two available options.
@@ -37,11 +41,9 @@ Import your new **DromEd Level Editor Developer Textures Kit** textures family i
 
 ## Contributing
 
-You can create new textures using the PSD files (CS6) located into the `src/` folder.
+You can create new textures using the PSD files (CS6) located into the `src/` folder. Use this guide to know the right texture sizes:
 
-Textures are based on this sizes guide (`dromed unit * pixel`):
-
-![DromEd Level Editor Developer Textures Kit - Reference Sizes](https://image.ibb.co/eQoFka/sizes.png)
+![DromEd Level Editor Developer Textures Kit - Sizes guide](https://image.ibb.co/mDynYv/dledtk_sizesguide.png)
 
 ## Licence
 
