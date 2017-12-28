@@ -4,9 +4,9 @@
 
 ![DromEd Level Editor Developer Textures Kit - Kit Preview](https://image.ibb.co/kYWbaa/dledtk_preview.png)
 
-> **Current version**: 1.2.1 (2017.12.28) - [**[Latest release](https://github.com/jonathanlinat/dledtk/releases/latest)**] [[Online README](https://github.com/jonathanlinat/dledtk/blob/master/README.md)] [[Project homepage](https://github.com/jonathanlinat/dledtk)] [[TTLG thread](http://www.ttlg.com/forums/showthread.php?t=147675&p=2351521&viewfull=1#post2351521)]
+> **Current version**: 1.2.2 (2017.12.28) - [**[Latest release](https://github.com/jonathanlinat/dledtk/releases/latest)**] [[Online README](https://github.com/jonathanlinat/dledtk/blob/master/README.md)] [[Project homepage](https://github.com/jonathanlinat/dledtk)] [[TTLG thread](http://www.ttlg.com/forums/showthread.php?t=147675&p=2351521&viewfull=1#post2351521)]
 
-This set has now 222 textures (+58): 1x1, 1x2, 1x4, 1x8; 2x1, 2x2, 2x4, 2x8; 4x1, 4x2, 4x4, 4x8; 8x1, 8x2, 8x4, 8x8 + Material Design colored ones + 4 special ones.
+This set has now **222 textures** (+58): 1x1, 1x2, 1x4, 1x8; 2x1, 2x2, 2x4, 2x8; 4x1, 4x2, 4x4, 4x8; 8x1, 8x2, 8x4, 8x8 + Material Design colored ones + 4 special ones.
 
 ## Install
 
