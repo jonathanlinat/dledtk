@@ -2,57 +2,56 @@
   0.5x0.5 --------------------
     wall                    --
     ceiling                 --
-    circle                  --
-    clear circle            --
-    dark circle             --
+    octagon                 --
+    hexadecagon             --
     crate                   --
     clear floor             --
     dark floor              --
     orange floor            --
-    triangle a              --
-    triangle b              --
-    triangle c              --
-    triangle d              --
+    trigon a                --
+    trigon b                --
+    trigon c                --
+    trigon d                --
   0.5x1 ----------------------
     wall                    --
     ceiling                 --
     clear floor             --
     dark floor              --
     orange floor            --
-    triangle a              --
-    triangle b              --
-    triangle c              --
-    triangle d              --
+    trigon a                --
+    trigon b                --
+    trigon c                --
+    trigon d                --
   0.5x2 ----------------------
     wall                    --
     ceiling                 --
     clear floor             --
     dark floor              --
     orange floor            --
-    triangle a              --
-    triangle b              --
-    triangle c              --
-    triangle d              --
+    trigon a                --
+    trigon b                --
+    trigon c                --
+    trigon d                --
   0.5x4 ----------------------
     wall                    --
     ceiling                 --
     clear floor             --
     dark floor              --
     orange floor            --
-    triangle a              --
-    triangle b              --
-    triangle c              --
-    triangle d              --
+    trigon a                --
+    trigon b                --
+    trigon c                --
+    trigon d                --
   0.5x8 ----------------------
     wall                    --
     ceiling                 --
     clear floor             --
     dark floor              --
     orange floor            --
-    triangle a              --
-    triangle b              --
-    triangle c              --
-    triangle d              --
+    trigon a                --
+    trigon b                --
+    trigon c                --
+    trigon d                --
 
 1 ============================
   1x0.5 ----------------------
@@ -63,24 +62,23 @@
     orange floor            OK
     stairs a                --
     stairs b                --
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   1x1
     wall                    OK
     ceiling                 OK
-    circle                  --
-    clear circle            --
-    dark circle             --
+    octagon                 --
+    hexadecagon             --
     crate                   OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
     special transp. tex.    OK
     special water           OK
   1x2
@@ -89,30 +87,30 @@
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   1x4
     wall                    OK
     ceiling                 OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   1x8
     wall                    OK
     ceiling                 OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
 
 2 ============================
   2x0.5 ----------------------
@@ -121,10 +119,10 @@
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   2x1 ------------------------
     wall                    OK
     ceiling                 OK
@@ -133,46 +131,45 @@
     orange floor            OK
     stairs a                --
     stairs b                --
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
     wall arch 4             --
     wall arch 4 white ba.   --
   2x2 ------------------------
     wall                    OK
     ceiling                 OK
-    circle                  --
-    clear circle            --
-    dark circle             --
+    octagon                 --
+    hexadecagon             --
     crate                   OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   2x4 ------------------------
     wall                    OK
     ceiling                 OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   2x8 ------------------------
     wall                    OK
     ceiling                 OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
 
 4 ============================
   4x0.5 ----------------------
@@ -181,32 +178,32 @@
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   4x1 ------------------------
     wall                    OK
     ceiling                 OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   4x2 ------------------------
     wall                    OK
     ceiling                 OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    stairs a
-    stairs b
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    stairs a                --
+    stairs b                --
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
     wall arch 4             --
     wall arch 4 white ba.   --
     wall arch 8             --
@@ -214,17 +211,16 @@
   4x4 ------------------------
     wall                    OK
     ceiling                 OK
-    circle                  --
-    clear circle            --
-    dark circle             --
+    octagon                 --
+    hexadecagon             --
     crate                   OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   4x8 ------------------------
     wall                    OK
     ceiling                 OK
@@ -232,10 +228,10 @@
     dark floor              OK
     orange floor            OK
     large entrance          --
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
     wall door               --
     wall window             --
     wall tunnel entrance    --
@@ -247,30 +243,30 @@
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   8x1 ------------------------
     wall                    OK
     ceiling                 OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   8x2 ------------------------
     wall                    OK
     ceiling                 OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
   8x4 ------------------------
     wall                    OK
     ceiling                 OK
@@ -279,10 +275,10 @@
     orange floor            OK
     stairs a                OK
     stairs b                OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
     wall arch 8             --
     wall arch 8 white ba.   --
     wall arch 16            OK
@@ -291,18 +287,17 @@
   8x8 ------------------------
     wall                    OK
     ceiling                 OK
-    circle                  --
-    clear circle            --
-    dark circle             --
+    octagon                 OK
+    hexadecagon             OK
     crate                   OK
     clear floor             OK
     dark floor              OK
     orange floor            OK
     large entrance          OK
-    triangle a              OK
-    triangle b              OK
-    triangle c              OK
-    triangle d              OK
+    trigon a                OK
+    trigon b                OK
+    trigon c                OK
+    trigon d                OK
     wall arch 8             --
     wall arch 8 white ba.   --
     wall arch 16            OK
