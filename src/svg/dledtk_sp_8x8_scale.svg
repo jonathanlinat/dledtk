@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #363636;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        stroke: #ff9b3e;
+      }
+
+      .cls-3 {
+        stroke: #697889;
+      }
+
+      .cls-4 {
+        stroke: #e2d780;
+      }
+
+      .cls-5 {
+        stroke: #007fcb;
+      }
+
+      .cls-6 {
+        stroke: #bf0000;
+      }
+    </style>
+  </defs>
+  <title>dledtk_sp_8x8_scale</title>
+  <g id="Specials">
+    <g id="Scale">
+      <rect id="Limits" class="cls-1" width="512" height="512"/>
+      <g id="Vertices">
+        <line id="Vertical" class="cls-2" x1="128" y1="512" x2="128"/>
+        <line id="Vertical-2" data-name="Vertical" class="cls-3" x1="256" y1="512" x2="256"/>
+        <line id="Vertical-3" data-name="Vertical" class="cls-4" x1="384" y1="512" x2="384"/>
+        <line id="Horizontal" class="cls-5" x2="512"/>
+        <line id="Horizontal-2" data-name="Horizontal" class="cls-2" y1="128" x2="512" y2="128"/>
+        <line id="Horizontal-3" data-name="Horizontal" class="cls-3" y1="256" x2="512" y2="256"/>
+        <line id="Horizontal-4" data-name="Horizontal" class="cls-4" y1="384" x2="512" y2="384"/>
+        <line id="Horizontal-5" data-name="Horizontal" class="cls-5" y1="512" x2="512" y2="512"/>
+        <line id="Vertical-4" data-name="Vertical" class="cls-6" y1="512"/>
+        <line id="Vertical-5" data-name="Vertical" class="cls-6" x1="512" y1="512" x2="512"/>
+      </g>
+    </g>
+  </g>
+</svg>
